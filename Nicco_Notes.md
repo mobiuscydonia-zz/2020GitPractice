@@ -7,3 +7,5 @@ git commit -m "your description of the file here"
 git push
 
 Adding a new line here.
+
+This was edited using the online edit file browser.
