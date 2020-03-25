@@ -3,3 +3,5 @@ When creating a new file locally (Sublime) and want to add to the the Repository
 git add filename (lets all new files be ready to be pushed)
 git commit -m "your description of the file here"
 git push
+
+Adding a new line here.
